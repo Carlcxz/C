@@ -1,0 +1,28 @@
+{
+    "slides": [
+      {
+        "src": "https://rays-wheels.net/lacne/news/upload/wheel/TE37XT-Ltd_MI_003.jpg",
+        "alt": "Image 1 for carousel"
+      },
+      {
+        "src": "https://rays-wheels.net/lacne/news/upload/wheel/TE37SAGA_Splus_MM.jpg",
+        "alt": "Image 2 for carousel"
+      },
+      {
+        "src": "https://rays-wheels.net/lacne/news/upload/wheel/TE37_14.jpg",
+        "alt": "Image 3 for carousel"
+      },
+      {
+        "src": "https://rays-wheels.net/lacne/news/upload/wheel/TE37_COP.jpg",
+        "alt": "Image 3 for carousel"
+      },
+      {
+        "src": "https://rays-wheels.net/lacne/news/upload/wheel/CE28_10S.jpg",
+        "alt": "Image 3 for carousel"
+      },
+      {
+        "src": "https://rays-wheels.net/lacne/news/upload/wheel/TE37SAGA_TA_W.jpg",
+        "alt": "Image 3 for carousel"
+      }
+    ]
+  }
